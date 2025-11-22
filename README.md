@@ -48,7 +48,7 @@ This project allows users to **add, edit, delete, sort, import/export, and manag
 | **State Management** | Redux Toolkit + Persist |
 | **CSV Utilities** | PapaParse, FileSaver |
 | **Unique IDs** | UUID |
-| **Build & Deploy** | Vercel |
+| **Build & Deploy** | Render |
 
 ---
 
